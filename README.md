@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Komal-pandey04/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Komal-pandey04/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Komal-pandey04/leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Komal-pandey04/leetcode/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Komal-pandey04/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0119-pascals-triangle-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Komal-pandey04/leetcode/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Komal-pandey04/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
