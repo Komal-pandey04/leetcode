@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Komal-pandey04/leetcode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Komal-pandey04/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Stack
 |  |
 | ------- |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Komal-pandey04/leetcode/tree/master/0197-rising-temperature) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Komal-pandey04/leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
