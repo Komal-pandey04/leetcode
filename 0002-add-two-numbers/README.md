@@ -26,7 +26,7 @@
 </pre>
 
 <p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+<p><strong>Constraints:</strong></p> 
  
 <ul>
 	<li>The number of nodes in each linked list is in the range <code>[1, 100]</code>.</li>
