@@ -13,7 +13,7 @@
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre>
+<pre> 
 <strong>Input:</strong> l1 = [0], l2 = [0]
 <strong>Output:</strong> [0]
 </pre>
