@@ -141,8 +141,13 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/Komal-pandey04/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Komal-pandey04/leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Komal-pandey04/leetcode/tree/master/0401-binary-watch) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Komal-pandey04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Komal-pandey04/leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
