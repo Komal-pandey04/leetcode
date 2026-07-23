@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0125-valid-palindrome](https://github.com/Komal-pandey04/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Komal-pandey04/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Komal-pandey04/leetcode/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/Komal-pandey04/leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0205-isomorphic-strings](https://github.com/Komal-pandey04/leetcode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Komal-pandey04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Komal-pandey04/leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Komal-pandey04/leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | ------- |
 | [0118-pascals-triangle](https://github.com/Komal-pandey04/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/Komal-pandey04/leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
