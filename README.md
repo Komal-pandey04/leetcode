@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Komal-pandey04/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Komal-pandey04/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Komal-pandey04/leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0045-jump-game-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Komal-pandey04/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/Komal-pandey04/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/Komal-pandey04/leetcode/tree/master/0392-is-subsequence) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Komal-pandey04/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
