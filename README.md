@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Komal-pandey04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Komal-pandey04/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Komal-pandey04/leetcode/tree/master/0392-is-subsequence) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Komal-pandey04/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String Matching
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0002-add-two-numbers](https://github.com/Komal-pandey04/leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Komal-pandey04/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Komal-pandey04/leetcode/tree/master/0231-power-of-two) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Komal-pandey04/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0045-jump-game-ii) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Komal-pandey04/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
