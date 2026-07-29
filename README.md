@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0389-find-the-difference](https://github.com/Komal-pandey04/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Komal-pandey04/leetcode/tree/master/0392-is-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Komal-pandey04/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Komal-pandey04/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## String Matching
 |  |
 | ------- |
