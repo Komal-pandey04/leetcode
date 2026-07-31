@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Komal-pandey04/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Komal-pandey04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/Komal-pandey04/leetcode/tree/master/1603-design-parking-system) |
 ## Database
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Komal-pandey04/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [1603-design-parking-system](https://github.com/Komal-pandey04/leetcode/tree/master/1603-design-parking-system) |
 ## Greedy
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Komal-pandey04/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1603-design-parking-system](https://github.com/Komal-pandey04/leetcode/tree/master/1603-design-parking-system) |
 ## Matrix
 |  |
 | ------- |
