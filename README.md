@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Komal-pandey04/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Komal-pandey04/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Komal-pandey04/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Komal-pandey04/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Komal-pandey04/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Komal-pandey04/leetcode/tree/master/0035-search-insert-position) |
 ## Tree
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Komal-pandey04/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Komal-pandey04/leetcode/tree/master/0169-majority-element) |
 ## Binary Search Tree
