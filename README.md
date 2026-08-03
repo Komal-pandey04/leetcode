@@ -207,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Komal-pandey04/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Komal-pandey04/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
