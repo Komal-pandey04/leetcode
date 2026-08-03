@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Komal-pandey04/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Komal-pandey04/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Komal-pandey04/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Komal-pandey04/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Komal-pandey04/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Komal-pandey04/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Komal-pandey04/leetcode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Komal-pandey04/leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Komal-pandey04/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Komal-pandey04/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Komal-pandey04/leetcode/tree/master/0231-power-of-two) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Komal-pandey04/leetcode/tree/master/0043-multiply-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Komal-pandey04/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1603-design-parking-system](https://github.com/Komal-pandey04/leetcode/tree/master/1603-design-parking-system) |
 ## Matrix
