@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Komal-pandey04/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Komal-pandey04/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -116,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0045-jump-game-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Komal-pandey04/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/Komal-pandey04/leetcode/tree/master/0392-is-subsequence) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Komal-pandey04/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Komal-pandey04/leetcode/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/Komal-pandey04/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/Komal-pandey04/leetcode/tree/master/0401-binary-watch) |
 ## Sliding Window
 |  |
