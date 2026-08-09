@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Komal-pandey04/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Komal-pandey04/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Komal-pandey04/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Komal-pandey04/leetcode/tree/master/0018-4sum) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Komal-pandey04/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Komal-pandey04/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Komal-pandey04/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Komal-pandey04/leetcode/tree/master/0169-majority-element) |
