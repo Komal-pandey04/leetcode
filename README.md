@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Komal-pandey04/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Komal-pandey04/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Komal-pandey04/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Komal-pandey04/leetcode/tree/master/0043-multiply-strings) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Komal-pandey04/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Komal-pandey04/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Komal-pandey04/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Komal-pandey04/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Komal-pandey04/leetcode/tree/master/0169-majority-element) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Komal-pandey04/leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Komal-pandey04/leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Komal-pandey04/leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Komal-pandey04/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Komal-pandey04/leetcode/tree/master/0202-happy-number) |
