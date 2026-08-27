@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Komal-pandey04/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Komal-pandey04/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Komal-pandey04/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Komal-pandey04/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Komal-pandey04/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Design
 |  |
 | ------- |
