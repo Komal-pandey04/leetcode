@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Komal-pandey04/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Komal-pandey04/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Komal-pandey04/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Komal-pandey04/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Komal-pandey04/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Komal-pandey04/leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Komal-pandey04/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Tree
 |  |
 | ------- |
