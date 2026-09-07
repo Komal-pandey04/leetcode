@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0035-search-insert-position](https://github.com/Komal-pandey04/leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Komal-pandey04/leetcode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/Komal-pandey04/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Komal-pandey04/leetcode/tree/master/0118-pascals-triangle) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Komal-pandey04/leetcode/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Komal-pandey04/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Komal-pandey04/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Komal-pandey04/leetcode/tree/master/0055-jump-game) |
 ## Simulation
 |  |
 | ------- |
