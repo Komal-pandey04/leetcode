@@ -8,11 +8,11 @@ public:
             int mid = left + (right - left) / 2;
 
             if (nums[mid] > nums[right]) {
-                // Minimum is in the right half
+                // Minimum is on the right side
                 left = mid + 1;
-            } 
+            }
             else {
-                // Minimum is at mid or in the left half
+                // Minimum is at mid or on the left side
                 right = mid;
             }
         }
