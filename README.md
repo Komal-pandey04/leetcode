@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Komal-pandey04/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Komal-pandey04/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Komal-pandey04/leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Komal-pandey04/leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Komal-pandey04/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Komal-pandey04/leetcode/tree/master/0055-jump-game) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0001-two-sum](https://github.com/Komal-pandey04/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Komal-pandey04/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Komal-pandey04/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Komal-pandey04/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Komal-pandey04/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Komal-pandey04/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Komal-pandey04/leetcode/tree/master/0202-happy-number) |
