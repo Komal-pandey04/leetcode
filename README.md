@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Komal-pandey04/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Komal-pandey04/leetcode/tree/master/0392-is-subsequence) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Komal-pandey04/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0168-excel-sheet-column-title](https://github.com/Komal-pandey04/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Komal-pandey04/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Komal-pandey04/leetcode/tree/master/0231-power-of-two) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Komal-pandey04/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sorting
 |  |
 | ------- |
@@ -260,4 +262,9 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Komal-pandey04/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Komal-pandey04/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Komal-pandey04/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
