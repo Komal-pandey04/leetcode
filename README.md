@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0238-product-of-array-except-self](https://github.com/Komal-pandey04/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Komal-pandey04/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Komal-pandey04/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Komal-pandey04/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Komal-pandey04/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0011-container-with-most-water](https://github.com/Komal-pandey04/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Komal-pandey04/leetcode/tree/master/0055-jump-game) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Komal-pandey04/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Simulation
 |  |
 | ------- |
