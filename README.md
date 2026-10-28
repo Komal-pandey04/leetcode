@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Komal-pandey04/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Komal-pandey04/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Komal-pandey04/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Komal-pandey04/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Komal-pandey04/leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Komal-pandey04/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Stack
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Komal-pandey04/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Komal-pandey04/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Komal-pandey04/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Komal-pandey04/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Komal-pandey04/leetcode/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Komal-pandey04/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
