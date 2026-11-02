@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Komal-pandey04/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Komal-pandey04/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Komal-pandey04/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2574-left-and-right-sum-differences](https://github.com/Komal-pandey04/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Komal-pandey04/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Komal-pandey04/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2574-left-and-right-sum-differences](https://github.com/Komal-pandey04/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Combinatorics
 |  |
 | ------- |
