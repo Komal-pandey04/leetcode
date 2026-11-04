@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0125-valid-palindrome](https://github.com/Komal-pandey04/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Komal-pandey04/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Komal-pandey04/leetcode/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/Komal-pandey04/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Komal-pandey04/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Komal-pandey04/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Komal-pandey04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Komal-pandey04/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Komal-pandey04/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Komal-pandey04/leetcode/tree/master/0257-binary-tree-paths) |
 | [0655-print-binary-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0655-print-binary-tree) |
 ## Depth-First Search
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Komal-pandey04/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Komal-pandey04/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Komal-pandey04/leetcode/tree/master/0257-binary-tree-paths) |
 | [0655-print-binary-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0655-print-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Komal-pandey04/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Komal-pandey04/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Komal-pandey04/leetcode/tree/master/0257-binary-tree-paths) |
 | [0655-print-binary-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0655-print-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0046-permutations](https://github.com/Komal-pandey04/leetcode/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/Komal-pandey04/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0257-binary-tree-paths](https://github.com/Komal-pandey04/leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Komal-pandey04/leetcode/tree/master/0401-binary-watch) |
 ## Sliding Window
 |  |
