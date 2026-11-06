@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0058-length-of-last-word](https://github.com/Komal-pandey04/leetcode/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/Komal-pandey04/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Komal-pandey04/leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Komal-pandey04/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/Komal-pandey04/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Komal-pandey04/leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Komal-pandey04/leetcode/tree/master/0257-binary-tree-paths) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0118-pascals-triangle](https://github.com/Komal-pandey04/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Komal-pandey04/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Komal-pandey04/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Komal-pandey04/leetcode/tree/master/0392-is-subsequence) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Komal-pandey04/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Hash Table
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0046-permutations](https://github.com/Komal-pandey04/leetcode/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/Komal-pandey04/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/Komal-pandey04/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Komal-pandey04/leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Komal-pandey04/leetcode/tree/master/0401-binary-watch) |
 ## Sliding Window
