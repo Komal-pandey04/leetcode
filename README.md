@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0045-jump-game-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Komal-pandey04/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Komal-pandey04/leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Komal-pandey04/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0045-jump-game-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Komal-pandey04/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Komal-pandey04/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0063-unique-paths-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Komal-pandey04/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0063-unique-paths-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Komal-pandey04/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
