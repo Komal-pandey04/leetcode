@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Komal-pandey04/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Komal-pandey04/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Komal-pandey04/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Komal-pandey04/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Komal-pandey04/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Komal-pandey04/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0062-unique-paths](https://github.com/Komal-pandey04/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0063-unique-paths-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Komal-pandey04/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Komal-pandey04/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Komal-pandey04/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Komal-pandey04/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview. Created using [L
 | [0060-permutation-sequence](https://github.com/Komal-pandey04/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Komal-pandey04/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Komal-pandey04/leetcode/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/Komal-pandey04/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Komal-pandey04/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Komal-pandey04/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Komal-pandey04/leetcode/tree/master/0231-power-of-two) |
